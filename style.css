@@ -1,0 +1,12 @@
+.adminButton {
+  /* display: none; */
+}
+.task {
+  background-color: aqua;
+}
+.task:last-child:checked {
+  background-color: brown;
+}
+h1 {
+  margin: 0;
+}
